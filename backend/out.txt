@@ -1,0 +1,9 @@
+--- STARTING FRESH SIGNUP TEST ---
+Enrolling user: test_admin_1774258474139@skillforge.com as admin...
+  -> Created successfully! UID: 8169ed18-25ba-4adb-bb83-93df3c9981a4
+  -> Could not fetch from public.users: {
+  "code": "PGRST116",
+  "details": "The result contains 0 rows",
+  "hint": null,
+  "message": "Cannot coerce the result to a single JSON object"
+}
